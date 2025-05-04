@@ -28,10 +28,10 @@ Tasks:
 4. Output:
 - Save the report as agent_performance_summary.csv
 - Format a Slack-style summary message like:
-Agent Summary for 2025-04-28
-Top Performer: Ravi Sharma (98% connect rate)
-Total Active Agents: 45
-Average Duration: 6.5 min
+- Agent Summary for 2025-04-28
+- Top Performer: Ravi Sharma (98% connect rate)
+- Total Active Agents: 45
+- Average Duration: 6.5 min
 5. Bonus (Optional):
 - Add CLI args to accept file paths.
 - Add logging (info, error).
