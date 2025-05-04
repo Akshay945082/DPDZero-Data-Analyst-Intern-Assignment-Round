@@ -1,10 +1,10 @@
 # DPDZero-Data-Analyst-Intern-Assignment-Round
-DPDZero || Data Analyst Intern || Assignment Round
-DPDzero Data Ops Assignment
-Objective:
+- DPDZero || Data Analyst Intern || Assignment Round
+- DPDzero Data Ops Assignment
+- Objective:
 Build a simplified end-to-end data pipeline that mimics a real-world operational use case. Your goal
 is to fetch, clean, transform, and report daily collection call data with basic validations and metrics.
-Scenario:
+- Scenario:
 Your organization runs a daily call campaign for loan collections. You receive daily CSV dumps from
 multiple sources:
 - Call Logs
