@@ -32,11 +32,11 @@ Agent Summary for 2025-04-28
 Top Performer: Ravi Sharma (98% connect rate)
 Total Active Agents: 45
 Average Duration: 6.5 min
-Bonus (Optional):
+5. Bonus (Optional):
 - Add CLI args to accept file paths.
 - Add logging (info, error).
 - Use modular functions/classes.
-Evaluation Criteria:
+6. Evaluation Criteria:
 - Code cleanliness and modularity
 - Correctness of joins and logic
 - Efficiency and readability
